@@ -1,0 +1,51 @@
+[
+    {
+        "collection": "/pets",
+        "name": "/lassie",
+
+        "data": {
+            "name": "lassie",
+            "type": "dog"
+        }
+    },
+
+    {
+        "collection": "/pets",
+        "name": "/clifford",
+
+        "data": {
+            "name": "clifford",
+            "type": "dog"
+        }
+    },
+
+    {
+        "collection": "/pets",
+        "name": "/garfield",
+
+        "data": {
+            "name": "garfield",
+            "type": "cat"
+        }
+    },
+
+    {
+        "collection": "/pets",
+        "name": "/snoopy",
+
+        "data": {
+            "name": "snoopy",
+            "type": "dog"
+        }
+    },
+    
+    {
+        "collection": "/pets",
+        "name": "/hello%20kitty",
+
+        "data": {
+            "name": "hello kitty",
+            "type": "cat"
+        }
+    }
+]
